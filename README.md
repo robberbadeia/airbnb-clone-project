@@ -74,6 +74,74 @@ Airbnb Clone is a web application inspired by Airbnb, providing a platform for u
 
 ---
 
+## **Project Roles and Responsibilities**
+
+### **Project Manager**
+
+- **Responsibilities:**
+  - Oversee project planning and execution.
+  - Coordinate between team members and ensure deadlines are met.
+  - Manage the project timeline and deliverables.
+- **Contribution to Success:** Ensures all aspects of the project align with the goals and timelines, keeping the team focused and organized.
+
+### **Frontend Developers**
+
+- **Responsibilities:**
+  - Build and style the user interface using React.js and Tailwind CSS.
+  - Ensure responsiveness and cross-browser compatibility.
+  - Implement interactive elements and dynamic features.
+- **Contribution to Success:** Creates the visual and interactive part of the platform, ensuring a seamless user experience.
+
+### **Backend Developers**
+
+- **Responsibilities:**
+  - Develop APIs and handle server-side logic using Node.js and Express.
+  - Integrate the database and payment systems.
+  - Ensure scalability and performance of the backend.
+- **Contribution to Success:** Powers the application's core functionality, enabling secure and efficient operations.
+
+### **Designers**
+
+- **Responsibilities:**
+  - Create mockups, wireframes, and UI/UX designs in Figma.
+  - Define color schemes, typography, and design guidelines.
+  - Work with developers to ensure design implementation matches the vision.
+- **Contribution to Success:** Sets the foundation for an appealing and accessible user interface.
+
+### **QA/Testers**
+
+- **Responsibilities:**
+  - Conduct manual and automated testing for bugs and usability issues.
+  - Ensure the application meets quality standards before deployment.
+  - Collaborate with developers to resolve issues.
+- **Contribution to Success:** Guarantees a bug-free and reliable application for users.
+
+### **DevOps Engineers**
+
+- **Responsibilities:**
+  - Manage server configurations and deployments.
+  - Monitor application performance and uptime.
+  - Implement CI/CD pipelines for efficient development workflows.
+- **Contribution to Success:** Ensures smooth deployment and consistent application performance.
+
+### **Product Owner**
+
+- **Responsibilities:**
+  - Define the project's scope and objectives.
+  - Prioritize features and user stories.
+  - Act as the primary point of contact for stakeholders.
+- **Contribution to Success:** Aligns the development team with the project's vision and user needs.
+
+### **Scrum Master**
+
+- **Responsibilities:**
+  - Facilitate agile practices and daily stand-ups.
+  - Remove roadblocks and ensure team productivity.
+  - Monitor sprint progress and adjust goals as needed.
+- **Contribution to Success:** Keeps the team on track with agile methodologies, improving collaboration and delivery speed.
+
+---
+
 ## **How to Run**
 
 1. Clone the repository:
