@@ -35,18 +35,28 @@ Airbnb Clone is a web application inspired by Airbnb, providing a platform for u
 
 ### **Key Features**
 
-1. **Property Listing View:**
+### **Color Styles**
 
-   - Grid layout with property thumbnails, filters, and a search bar.
-   - Display key property details such as images, title, price, and ratings.
+- **Primary Color:** #00A699 (used for buttons and highlights)
+- **Secondary Color:** #FF5A5F (used for call-to-action elements like "Sign Up")
+- **Background Color:** #F7F7F7 (used for the main page background)
+- **Text Color:** #484848 (for primary text)
+- **Accent Color:** #767676 (used for secondary information)
 
-2. **Listing Detailed View:**
+### **Typography**
 
-   - Showcase detailed property information, including amenities, host details, and reviews.
-   - Include a booking calendar to check availability.
-
-3. **Simple Checkout View:**
-   - Provide a straightforward booking process with steps for confirmation, payment, and booking summary.
+- **Font Family:**
+  - Primary: `Poppins` (used for headings and titles)
+  - Secondary: `Roboto` (used for body text)
+- **Font Weights:**
+  - Light: 300
+  - Regular: 400
+  - Bold: 600
+- **Font Sizes:**
+  - Heading: 32px
+  - Subheading: 24px
+  - Body Text: 16px
+  - Small Text: 12px
 
 ### **Page Descriptions**
 
