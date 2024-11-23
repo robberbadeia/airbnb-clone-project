@@ -142,6 +142,41 @@ Airbnb Clone is a web application inspired by Airbnb, providing a platform for u
 
 ---
 
+## **UI Component Patterns**
+
+### **Navbar**
+
+- **Purpose:** Provides navigation across key sections of the platform.
+- **Features:**
+  - Logo and branding.
+  - Links to Home, Search, and User Profile.
+  - Dropdown menu for additional options.
+
+### **Property Card**
+
+- **Purpose:** Displays property details in a compact, visually appealing format.
+- **Features:**
+  - Property image, title, and location.
+  - Price per night, star rating, and badges for unique features (e.g., "Top Villa").
+  - Quick booking or more details button.
+
+### **Footer**
+
+- **Purpose:** Serves as the bottom section of the platform, offering supplementary navigation and information.
+- **Features:**
+  - Links to Terms, Privacy Policy, and About Us.
+  - Social media icons for external engagement.
+  - Copyright notice.
+
+### **Search Bar**
+
+- **Purpose:** Enables users to search for properties by location and date.
+- **Features:**
+  - Input fields for location, check-in, and check-out dates.
+  - Filters for price, type, and amenities.
+
+---
+
 ## **How to Run**
 
 1. Clone the repository:
