@@ -101,7 +101,7 @@ The goal of this project is to give you practical experience in developing a sim
 
 ---
 
-### **Page Descriptions**
+## **Page Descriptions**
 
 | **Page**              | **Description**                                                                                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -112,7 +112,7 @@ The goal of this project is to give you practical experience in developing a sim
 
 ---
 
-### **Importance of a User-Friendly Design**
+## **Importance of a User-Friendly Design**
 
 - Ensures users can navigate the platform effortlessly, enhancing their experience and satisfaction.
 - Reduces booking errors and confusion, increasing conversion rates.
@@ -220,6 +220,8 @@ The goal of this project is to give you practical experience in developing a sim
 | 11 - 12  | Implementing Booking System and Checkout Process.    |
 | 13 - 14  | Testing, Debugging, and Optimization.                |
 | 15 - 16  | Final Project Review and Presentation.               |
+
+---
 
 ## **How to Run**
 
